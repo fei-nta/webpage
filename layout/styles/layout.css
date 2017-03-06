@@ -38,7 +38,8 @@ img{display:block; margin:0; padding:0; border:none;}
 /* ----------------------------------------------Wrapper------------------------------------- */
 
 div.wrapper{display:block; width:100%; margin:0; text-align:left; border-bottom:1px solid #E3E3E3;}
-div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, div.wrapper h6{margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal;}
+div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5{margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal;}
+div.wrapper h6{margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal; text-align: center;}
 .col0, .col0 a{color:#FFFFFF; background-color:#666666;}
 .col2{color:#FFFFFF; background-color:#F6F6F6;}
 
@@ -95,6 +96,11 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 #comments .commentlist .submitdate{font-size:smaller;}
 #comments .commentlist p{margin:10px 5px 10px 0; padding:0; font-weight:normal; text-transform:none;}
 #comments .commentlist li .avatar{float:right; border:1px solid #EEEEEE; margin:0 0 0 10px;}
+
+/* -----------------------------------------------line-------------------------------------- */
+
+.line{display:block; width:100%; text-align:left; margin-top:20px; margin-bottom:20px; border-bottom:1px solid #E3E3E3;}
+
 
 /* ----------------------------------------------Column------------------------------------- */
 
