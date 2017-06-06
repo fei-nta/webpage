@@ -6,32 +6,33 @@
 â &acirc;
 À &Agrave;
 à &agrave;
-Ã ................ &Atilde;
-ã ............... &atilde;
+Ã &Atilde;
+ã &atilde;
 
-É ................ &Eacute;
-é ............... &eacute;
-Ê ................. &Ecirc;
-ê ................ &ecirc;
+É &Eacute;
+é &eacute;
+Ê &Ecirc;
+ê &ecirc;
 
-Í ................ &Iacute;
-í ............... &iacute;
+Í &Iacute;
+í &iacute;
 
-Ó ........... &Oacute;
-ó .............. &oacute;
-Ô ................ &Ocirc;
-ô ................. &ocirc;
-Ø ................ &Oslash;
-ø ............... &oslash;
+Ó &Oacute;
+ó &oacute;
+Ô &Ocirc;
+ô &ocirc;
+Ø &Oslash;
+ø &oslash;
 
-Ú .............. &Uacute;
-ú ............... &uacute;
+Ú &Uacute;
+ú &uacute;
 
 
-Ç ............... &Ccedil;
-< ................. &lt;
-> ................. &gt;
-& ................ &amp;
-" ................. &quot;
-® .................. &reg;
-© ............... &copy;
+Ç &Ccedil;
+ç &ccedil;
+< &lt;
+> &gt;
+& &amp;
+" &quot;
+® &reg;
+© &copy;
