@@ -14,7 +14,7 @@ File: Layout CSS
 @import url("featured_slide.css");
 
 html{overflow-y:scroll;}
-body{margin:0; padding:0; font-size:14px; font-family:Georgia, "Times New Roman", Times, serif; color:#666666; background-color:#FFFFFF;}
+body{margin:0; padding:0; font-size:14px; font-family:Georgia, "Times New Roman", Times, serif; color:#333333; background-color:#FFFFFF;}
 
 .justify{text-align:justify;}
 .bold{font-weight:bold;}
@@ -34,12 +34,17 @@ img{display:block; margin:0; padding:0; border:none;}
 .imgl, .imgr{border:1px solid #C7C5C8; padding:5px;}
 .imgl{margin:0 8px 8px 0; clear:left;}
 .imgr{margin:0 0 8px 8px; clear:right;}
+.imgr{margin:0 8 8px 8px; clear:center;}
 
 /* ----------------------------------------------Wrapper------------------------------------- */
 
 div.wrapper{display:block; width:100%; margin:0; text-align:left; border-bottom:1px solid #E3E3E3;}
-div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5{margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal;}
-div.wrapper h6{margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal; text-align: center;}
+div.wrapper h1 {margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal;}
+div.wrapper h2 {margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal;}
+div.wrapper h3 {margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal;}
+div.wrapper h4 {margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal;}
+div.wrapper h5 {margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal;}
+div.wrapper h6 {margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal; text-align: center;}
 .col0, .col0 a{color:#FFFFFF; background-color:#666666;}
 .col2{color:#FFFFFF; background-color:#F6F6F6;}
 
@@ -61,7 +66,7 @@ div.wrapper h6{margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal;
 #header .fl_left{display:block; float:left; margin-top:7px; overflow:hidden;}
 #header .fl_right{display:block; float:right; width:220px; height:70px; margin-top:21px; overflow:hidden;}
 #header h1, #header p, #header ul{margin:0; padding:0; list-style:none; line-height:normal;}
-#header h1 a{font-size:50px; color:#999999; background-color:#FFFFFF;}
+#header h1 a{font-size:50px; color:#898989; background-color:#FFFFFF;}
 #header h1 strong{font-weight:normal; color:#059BD8; background-color:#FFFFFF;}
 #header .fl_left p{text-align:left; margin-top:5px;}
 
